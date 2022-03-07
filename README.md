@@ -11,6 +11,6 @@
 - 😄 Pronouns: ...
 - ## ⚡ Fun fact: ...
 
-[![Motoki's github stats](https://github-readme-stats.vercel.app/api?username=Motoki-tech&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Motoki-tech/)
+[![Motoki's github stats](https://github-readme-stats.vercel.app/api?username=Motoki-tech&hide=contribs&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/Motoki-tech/)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motoki-tech&layout=compact&theme=tokyonight)](https://github.com/Motoki-tech/)
