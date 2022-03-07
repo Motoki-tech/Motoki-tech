@@ -15,4 +15,3 @@
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Motoki-tech&layout=compact&theme=gruvbox)](https://github.com/Motoki-tech/)
 
-yes
