@@ -14,8 +14,8 @@
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Motoki-tech&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Motoki-tech&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motoki-tech&layout=compact&theme=gruvbox&hide=python,C,PowerShell,Shell,Cython" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motoki-tech&layout=compact&theme=gruvbox&hide=python,C,PowerShell,Shell,Cython" />
 </a>
