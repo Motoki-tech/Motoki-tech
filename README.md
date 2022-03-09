@@ -1,5 +1,7 @@
 ### Hi, I'm Motoki👋🎤💻
 
+- How to reach me: <a href="https://linkedin.com/in/motoki-mizuno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Motoki Mizuno" height="20" width="30" /></a>
+
 <h3 align="left">Languages and Tools:</h3>
 <p  align="left"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
