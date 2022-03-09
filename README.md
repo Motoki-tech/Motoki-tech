@@ -12,6 +12,9 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=Motoki-tech&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Motoki-tech&layout=compact&theme=gruvbox&hide=python,C,PowerShell,Shell,Cython" />
+</a>
